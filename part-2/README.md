@@ -8,6 +8,10 @@
 
 ## Information about this Repo
 <ol>
-<li>common core modules like os or path<li>
-<li>custom modules import / export<li>
+<li>how to read/write/update/delete file with node<li>
+<li>how to create directory<li>
+<li>how to check if a file or directory exists<li>
+<li>Piping data<li>
+<li>async example, fsPromises<li>
+<li>path modules<li>
 </ol>
