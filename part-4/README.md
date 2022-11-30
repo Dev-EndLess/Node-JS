@@ -5,6 +5,6 @@
 
 ## Information about this Repo
 <ol>
-<li>building a custom log module<li>
-<li>events module and EventEmitter<li>
+<li>building a custom log module
+<li>events module and EventEmitter
 </ol>

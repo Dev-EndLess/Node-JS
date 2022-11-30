@@ -8,10 +8,10 @@
 
 ## Information about this Repo
 <ol>
-<li>how to read/write/update/delete file with node<li>
-<li>how to create directory<li>
-<li>how to check if a file or directory exists<li>
-<li>Piping data<li>
-<li>async example, fsPromises<li>
-<li>path modules<li>
+<li>how to read/write/update/delete file with node
+<li>how to create directory
+<li>how to check if a file or directory exists
+<li>Piping data
+<li>async example, fsPromises
+<li>path modules
 </ol>
