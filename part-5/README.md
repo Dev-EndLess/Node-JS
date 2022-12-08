@@ -2,12 +2,11 @@
 
 ## Information about this Repo
 <ol>
-<li>setting content type
-<li>setting file path
-<li>routing redirect
-<li>call function to serve the file
+<li>Setting content type
+<li>Setting file path
+<li>Routing redirect
+<li>Call function to serve the file
+<li>Sending 404 status code
+<li>Serving images
+<li>Serving JSON
 </ol>
-
-### Sending 404 status code
-### Serving images
-### Serving JSON

@@ -2,6 +2,6 @@
 
 ### Information about this Repo
 <ol>
-<li>common core modules like os or path
-<li>custom modules import / export
+<li>Common core modules like os or path
+<li>Custom modules import / export
 </ol>
