@@ -17,7 +17,7 @@
 - How to read file with node.js
 - Async example and Path Modules
 - How to Write/Update/Delete file
-- Sream data listener and Piping data Streams
+- Stream data listener and Piping data Streams
 - How to check if file exist in the directory
 
 ## Part 3
